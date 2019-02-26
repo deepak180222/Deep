@@ -17,7 +17,6 @@
       <h1>Contact </h1>
       <a href = "https://www.facebook.com/deepakkumar.ram.54922">Facebook Link</a>
       <p></p>
-      <a href = "https://www.quora.com/profile/Deepak-Kumar-Ram-7"> Quora Link</a>
     </body>
   </head>
      
